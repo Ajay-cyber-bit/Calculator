@@ -1,2 +1,3 @@
 # Calculator
-This is a frontend web development project built using HTML, CSS, and JavaScript. The main objective of this project is to practice responsive design and improve UI/UX skills. It demonstrates the use of structured code, basic interactivity, and modern web layout techniques.
+Calculator with amazing design using html and css only You just fall in love with design
+![calciHtmlLogo](https://user-images.githubusercontent.com/64765400/93598016-e4e3a900-f970-11ea-9423-19b3d0ef0873.png)
